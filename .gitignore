@@ -1,0 +1,6 @@
+/dist
+/unpackage
+/node_modules/*
+/.idea/*
+deploy.sh
+.hbuilderx/launch.json

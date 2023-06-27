@@ -1,0 +1,23 @@
+{
+  "name": "v-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengjianguo1/vue-components.git"
+  },
+  "author": "chengjianguo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengjianguo1/vue-components/issues"
+  },
+  "homepage": "https://github.com/chengjianguo1/vue-components#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3",
+    "vue": "^3.3.4"
+  }
+}
